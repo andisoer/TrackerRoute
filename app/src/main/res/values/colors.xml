@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5BBFCC</color>
+    <color name="colorPrimaryDark">#3BB3C3</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorBlueCya">#3BB3C3</color>
+    <color name="colorBlueAnother">#E6F5F7</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGrey">#a1a1a1</color>
+
+    <color name="list_row_start_color">#ffff</color>
+    <color name="list_row_end_color">#ffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <color name="colorBlueAnotherR">#BCE0FD</color>
+    <color name="colorGreyAnother">#707070</color>
+</resources>
